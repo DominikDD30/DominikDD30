@@ -4,7 +4,7 @@
 
 I'm currently a student of Computer Science and a self-taught programmer. I have been programming for over 3 years. I started with Java, which remains my strongest skill, but I've also developed strong frontend abilities with React.js. I'm now focusing on expanding my knowledge in the DevOps field and actively looking for my first job.
 
-- 🇵🇱 Based in Poland <br>
+- 🇵🇱 Polish <br>
 - 🎓 Studying at the Silesian University of Technology <br>
 - 🌱 Currently learning message brokers and DevOps technologies <br>
 - 📫 How to reach me: [ddryja11@gmail.com](mailto:ddryja11@gmail.com) <br>
