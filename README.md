@@ -1,19 +1,30 @@
 ## Hi 👋 My name is Dominik
 
-<strong>Final-year Computer Science Student and Full Stack Developer</strong>
+<strong>Computer Science Engineer and Full Stack Developer</strong>
 
-I'm currently a student of Computer Science and a self-taught programmer. I have been programming for over 3 years. I started with Java, which remains my strongest skill, but I've also developed strong frontend abilities with React.js. I'm now focusing on expanding my knowledge in the DevOps field and actively looking for my first job.
+I'm a Computer Science graduate (Engineer) from the Silesian University of Technology and a passionate self-taught programmer. I've been programming for 4 years, working on personal projects and continuously expanding my skills. I started with Java, which remains one of my strongest languages, and over time I developed frontend skills using React.js.
+
+Recently, I completed a 6-month internship as a Python Developer working with AWS, Elasticsearch and large language models.
+
+I'm actively looking for a full-time position as a Python or Java Developer. I'm also open to roles involving frontend technologies.
 
 - 🇵🇱 Polish <br>
-- 🎓 Studying at the Silesian University of Technology <br>
-- 🌱 Currently learning message brokers and DevOps technologies <br>
+- 🎓 Graduate of the Silesian University of Technology <br>
+- 👨‍💻 Recently completed internship as Python Developer with AWS <br>
 - 📫 How to reach me: [ddryja11@gmail.com](mailto:ddryja11@gmail.com) <br>
 
 ## Skills 💪🏻
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
